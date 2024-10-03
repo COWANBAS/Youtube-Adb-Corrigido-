@@ -1,5 +1,5 @@
-Todos os creditos vai para o criador iamfugui
-O script esta incompleto em algumas partes pode não afetar o uso dele em algums navegadores mas no Min Browser ele fica infuncional.
+Todos os creditos vai para o criador iamfugui,
+corrigi o script em algumas partes, pode não afetar o uso dele em algums navegadores mas no Min Browser ele fica infuncional.
 
 Corrigido: 
 
